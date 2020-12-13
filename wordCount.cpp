@@ -1,6 +1,3 @@
-//Parker Anderberg and Andy Millikan
-
-
 #include <iostream>
 #include <vector>
 #include <map>
