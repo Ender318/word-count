@@ -1,3 +1,5 @@
+// Document::to_lower() is currently not working
+
 #include <iostream>
 #include <vector>
 #include <map>
